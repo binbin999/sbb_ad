@@ -13,7 +13,7 @@ validation_data_dir = '/root/Ryerson/MRI_32_Images/data_00/validation'
 nb_train_samples = 5120
 nb_validation_samples = 1280
 epochs = 100
-batch_size = 20
+batch_size = 30
 #batch_size = 40
 
 

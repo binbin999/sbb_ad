@@ -9,7 +9,7 @@ Thank you!
 
 
 The final results of this experiment are in the folders:
-
+CESHI
 1. InceptionV4_FineTunnign_ALL - finetuning with InceptionV4
 2. VGG16_Experiment - finetuning with VGG16 (weights)
 3. VGG16_Experiment_Models - finetuning with VGG16 (models)
